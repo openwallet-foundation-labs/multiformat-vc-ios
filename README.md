@@ -1,4 +1,4 @@
-# Swift Package for Multiformat VC
+# Multiformat-VC for iOS
 
 ## Overview
 
@@ -243,3 +243,7 @@ You can call the `verifySignature` methods to validate the signature of a signed
           ... // Signature verified successfully
         }
 ```
+
+## Governance
+
+The Project Charter for Multiformat-VC for iOS can be found here: [https://github.com/openwallet-foundation/technical-project-charters/blob/main/Multiformat-VC%20for%20iOS%20Technical%20Charter%20(Final%2003.07.2025).pdf](https://github.com/openwallet-foundation/technical-project-charters/blob/main/Multiformat-VC%20for%20iOS%20Technical%20Charter%20(Final%2003.07.2025).pdf)
